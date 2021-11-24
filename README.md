@@ -5,4 +5,4 @@ This is a sentiment analysis done on the twitter dataset provided by the analyti
 
 The main objective of this project is to detect the hate speech in the tweets. This
 project classifies the tweets on the basis of hateful sentiments associated with the
-tweet using NLp and other machine learning algorithms.
+tweet using NLP and other machine learning algorithms.
